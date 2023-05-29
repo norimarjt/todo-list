@@ -158,6 +158,7 @@ footer button {
   min-width: 48px;
   min-height: 48px;
   color: #fff;
+  font-weight: 800;
   background: black;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -179,7 +180,8 @@ footer button img {
 }
 
 footer button:hover {
-  background: #4f48d5;
+  background: gray;
+  color: black;
 }
 
 footer input {
